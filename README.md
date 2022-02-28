@@ -1,2 +1,2 @@
 # P3H-solvers
-The C++ code for Parallel 3-layer Hybrid algorithm 
+This repository will include the C++ program for Parallel 3-layer Hybrid (P3H) algorithm and its application to the Permutation Flowshop Scheduling, Job shop Scheduling, and Quadratic Assignment Problems...
